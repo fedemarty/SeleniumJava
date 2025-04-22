@@ -13,7 +13,7 @@ Feature: Navigation bar
            | section  |
            | Academia |
            | Cursos   |
-           | Mentorías|
+           | Mentorías |
            | Recursos |
            | Udemy    |
            | Blog |
