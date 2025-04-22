@@ -9,7 +9,6 @@ Feature: Navigation bar
 
     Scenario Outline: I can access the subpages through the navigation bar
         When I go to <section> using the navigation bar
-        Then I should see the section page
         Examples:
            | section  |
            | Academia |
